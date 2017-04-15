@@ -1,3 +1,8 @@
+# Release 2.0.0
+- Started Sprint 3
+- Removed "Branch Naming Format" from outline. Should be include in branch
+  definitions
+
 # Release 1.1.0
 - Started Sprint 2
 - Defined Sprint in readme
