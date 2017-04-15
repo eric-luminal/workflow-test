@@ -11,9 +11,9 @@ candidates, and master to track the latests tagged releases. Where it seems that
 this workflow will fail us, is when we need to track and support multiple 
 releases and versions of a product. This is because stock gitflow dictates that
 you will base a hotfix off of the head of master. If the master branch of a 
-product is on version 3.1.1 and a customer finds a problem in version 2.5.1 we
+product is on version 3.1.5 and a customer finds a problem in version 2.6.2 we
 cannot base a hotfix off of master without including new and probably api 
-breaking changes to the desired hotfix of 2.5.2. The goal of this repository
+breaking changes to the desired hotfix of 2.6.3. The goal of this repository
 is to provide a git workflow where we can safely and sanely support multiple
 codelines of a single product and share hotfixes across versions where ever
 possible.
