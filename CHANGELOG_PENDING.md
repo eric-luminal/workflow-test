@@ -1,4 +1,6 @@
 # Current Changes
+
+# Release 2.0.0
 - Started Sprint 3
 - Removed "Branch Naming Format" from outline. Should be include in branch
   definitions
