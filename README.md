@@ -22,7 +22,10 @@ possible.
 
 *   Sprint
 
-    Definition and description here
+     A regular, repeatable work cycle in scrum methodology during which work is
+     completed and made ready for review. Scrum sprints are basic units of
+     development in the scrum methodology. Generally, scrum sprints are less
+     than 30 days long.
 
 *   Release
 
