@@ -48,15 +48,6 @@ possible.
 *   Release
 *   Master
 
-## Branch Naming Format
-
-*   Develop
-*   Develop
-*   Feature
-*   Release
-*   Master
-
-
 ## Version Management
 
 ## Change Log Management
