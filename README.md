@@ -17,3 +17,47 @@ breaking changes to the desired hotfix of 2.5.2. The goal of this repository
 is to provide a git workflow where we can safely and sanely support multiple
 codelines of a single product and share hotfixes across versions where ever
 possible.
+
+## Definitions
+
+*   Sprint
+
+    Definition and description here
+
+*   Release
+
+    Definition and description here
+
+*   Version
+
+    Definition and description here
+
+*   Patch
+
+    Definition and description here
+
+## Starting a project
+
+## Branches
+
+*   Develop
+*   Feature
+*   Release
+*   Master
+
+## Branch Naming Format
+
+*   Develop
+*   Develop
+*   Feature
+*   Release
+*   Master
+
+
+## Version Management
+
+## Change Log Management
+
+## Hotfix/Patching Workflow
+
+### Cherry-Pick vs Merge
