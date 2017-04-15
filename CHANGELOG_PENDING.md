@@ -1,4 +1,6 @@
 # Current Changes
+- Started Sprint 2
+- Defined Sprint in readme
 
 # Release 1.0.0
 - Started Sprint 1
