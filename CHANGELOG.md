@@ -1,3 +1,6 @@
+# Release 2.0.1
+- Merged patch Release 1.1.1
+
 # Release 1.1.1
 - Merged patch Release 1.0.1
 
