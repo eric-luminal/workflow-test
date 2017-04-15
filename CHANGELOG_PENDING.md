@@ -1,4 +1,6 @@
 # Current Changes
+
+# Release 1.0.0
 - Started Sprint 1
 - Added basic outline to readme
 
